@@ -1,8 +1,6 @@
 spring:
   application:
-    name: Config Service FILE Application 2
-
-
+    name: Config Service FILE Application 4
 
 my:
   app: Configuration Server Application Updated
