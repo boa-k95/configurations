@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Config Service FILE Application 4
+
+welcome_message: svil environment
+
+token: svilr7894098748903
