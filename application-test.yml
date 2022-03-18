@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Config Service FILE Application 4
+
+welcome_message: Configuration Server Application Updated
+
+token: test795759484r0480000
